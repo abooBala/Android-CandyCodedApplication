@@ -11,8 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._3_StartThePhoneActivity">
+  <component name="RunManager" selected="Android App.MainActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -232,8 +230,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android App.MainActivity" />
+        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
@@ -265,13 +263,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600995238904</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Start Google Phone Activity">
+      <created>1600996141899</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600996141899</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start Store Information activity" />
     <MESSAGE value="Start Google Map Activity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start Google Map Activity" />
+    <MESSAGE value="Start Google Phone Activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start Google Phone Activity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="496" y="58" key="#app" timestamp="1600964895595">
@@ -286,38 +292,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1600993089896" />
-    <state x="275" y="7" key="CommitChangelistDialog2" timestamp="1600995235197">
+    <state x="275" y="7" key="CommitChangelistDialog2" timestamp="1600996139085">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="275" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600995235197" />
+    <state x="275" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600996139085" />
     <state x="148" y="65" key="DiffContextDialog" timestamp="1600993534304">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="148" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1600993534304" />
-    <state width="1476" height="208" key="GridCell.Tab.0.bottom" timestamp="1600996066928">
+    <state width="1476" height="208" key="GridCell.Tab.0.bottom" timestamp="1600996698532">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1476" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600996066928" />
-    <state width="1476" height="208" key="GridCell.Tab.0.center" timestamp="1600996066927">
+    <state width="1476" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600996698532" />
+    <state width="1476" height="208" key="GridCell.Tab.0.center" timestamp="1600996698531">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1476" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600996066927" />
-    <state width="1476" height="208" key="GridCell.Tab.0.left" timestamp="1600996066927">
+    <state width="1476" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600996698531" />
+    <state width="1476" height="208" key="GridCell.Tab.0.left" timestamp="1600996698530">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1476" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600996066927" />
-    <state width="1476" height="208" key="GridCell.Tab.0.right" timestamp="1600996066927">
+    <state width="1476" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600996698530" />
+    <state width="1476" height="208" key="GridCell.Tab.0.right" timestamp="1600996698532">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1476" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600996066927" />
+    <state width="1476" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600996698532" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1600965607054">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600965607054" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600995257574">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600996184753">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600995257574" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600996184753" />
     <state x="93" y="93" width="1350" height="638" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600964944549">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
